@@ -1,0 +1,19 @@
+
+
+
+[
+    {
+    "userId": "user-default-1",
+    "displayName": "Bob Bobbarelli",
+    "avatar": "https://i.insider.com/5f341b9e5fa9a45644447e89?width=700",
+    "friends": []
+
+},
+{
+    "userId": "user-default-2",
+    "displayName": "Tom Riddle",
+    "avatar": "https://exploringyourmind.com/wp-content/uploads/2018/12/voldemort.jpg",
+    "friends": []
+
+}
+]

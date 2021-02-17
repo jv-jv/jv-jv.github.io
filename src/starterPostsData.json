@@ -1,0 +1,23 @@
+
+
+
+[
+    {
+    "postId": "post-default-1",
+    "userId": "user-default-1",
+    "timestamp":"1613319588483",
+    "text":"In eiusmod deserunt minim magna aliqua. Exercitation qui quis consequat laboris aliqua laboris non culpa ea mollit ex excepteur ex dolore. Deserunt duis labore commodo nisi occaecat mollit ea ullamco sit veniam cillum aliquip esse. Excepteur Lorem pariatur culpa consectetur et incididunt velit. Culpa incididunt do eu labore nisi cupidatat cupidatat eiusmod do ad. Reprehenderit amet reprehenderit proident cupidatat exercitation ipsum irure cupidatat ad. Culpa minim Lorem consequat magna magna nostrud qui proident ipsum ut sunt cillum.",
+    "attachementUrl": "https://i.pinimg.com/originals/f8/6f/0e/f86f0e84d680afa6cfe713de4a640252.png", 
+    "attachmentType": "img",
+    "comments": [],
+    "likes": []
+},
+{
+    "postId": "post-default-2",
+    "userId": "user-default-2",
+    "timestamp":"1613319588483",
+    "text":"In eiusmod deserunt minim magna aliqua. Exercitation qui quis consequat laboris aliqua laboris mollit ea ullamco sit veniam cillum aliquip esse. Excepteur Lorem pariatur culpa consectetur et incididunt velit. Culpa incididunt do eu labore nisi cupidatat cupidatat eiusmod do ad. Reprehenderit amet reprehenderit proident cupidatat exercitation ipsum irure cupidatat ad. Culpa minim Lorem consequat magna magna nostrud qui proident ipsum ut sunt cillum.",
+    "comments": [],
+    "likes": []
+}
+]
